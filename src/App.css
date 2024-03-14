@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+.subtitle{
+  text-align: center;
+  margin-bottom: 20px;
+}
 ul {
   padding: 0;
   list-style: none;
@@ -96,9 +100,4 @@ input[type="number"] {
   left: 20px;
   width: 250px;
   z-index: 1000;
-}
-
-.subtitle{
-  text-align: center;
-  padding-bottom: 20px;
 }
