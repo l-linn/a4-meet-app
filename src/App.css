@@ -12,9 +12,13 @@ ul {
   padding: 0;
   list-style: none;
 }
+h1 {
+  text-align: center;
+}
 
 p {
   margin: 5px 0;
+  text-align: center;
 }
 
 input[type="text"],
